@@ -1,0 +1,15 @@
+D:\tugas alprog\pemograman aplikasi kalkulator\bin\Debug\net6.0\pemograman aplikasi kalkulator.exe
+D:\tugas alprog\pemograman aplikasi kalkulator\bin\Debug\net6.0\pemograman aplikasi kalkulator.deps.json
+D:\tugas alprog\pemograman aplikasi kalkulator\bin\Debug\net6.0\pemograman aplikasi kalkulator.runtimeconfig.json
+D:\tugas alprog\pemograman aplikasi kalkulator\bin\Debug\net6.0\pemograman aplikasi kalkulator.dll
+D:\tugas alprog\pemograman aplikasi kalkulator\bin\Debug\net6.0\pemograman aplikasi kalkulator.pdb
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.csproj.AssemblyReference.cache
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.AssemblyInfoInputs.cache
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.AssemblyInfo.cs
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.csproj.CoreCompileInputs.cache
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.dll
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\refint\pemograman aplikasi kalkulator.dll
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.pdb
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\pemograman aplikasi kalkulator.genruntimeconfig.cache
+D:\tugas alprog\pemograman aplikasi kalkulator\obj\Debug\net6.0\ref\pemograman aplikasi kalkulator.dll
